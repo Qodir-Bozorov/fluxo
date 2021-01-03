@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="26" viewBox="0 0 30 26">
+  <g id="icn_fluxo_office.png_200_icn_fluxo_office_2x.png" data-name="icn_fluxo_office.png, 200% icn_fluxo_office@2x.png" transform="translate(-3 -4.333)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="3" height="2.889" transform="translate(15 10.111)" fill="#4d5bed"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="3" height="2.889" transform="translate(15 15.889)" fill="#4d5bed"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="3" height="2.889" transform="translate(24 15.889)" fill="#7ac8f4"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="3" height="2.889" transform="translate(24 21.667)" fill="#7ac8f4"/>
+    <path id="Path_3" data-name="Path 3" d="M30,10.111H24V13h6V27.444H24v2.889h9V13A2.968,2.968,0,0,0,30,10.111Z" fill="#7ac8f4"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="3" height="2.889" transform="translate(9 21.667)" fill="#4d5bed"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="3" height="2.889" transform="translate(15 21.667)" fill="#4d5bed"/>
+    <path id="Path_4" data-name="Path 4" d="M24,24.556V7.222a2.968,2.968,0,0,0-3-2.889H6A2.968,2.968,0,0,0,3,7.222V30.333H24V24.556ZM6,7.222H21V27.444H6" fill="#4d5bed"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="3" height="2.889" transform="translate(9 15.889)" fill="#4d5bed"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="3" height="2.889" transform="translate(9 10.111)" fill="#4d5bed"/>
+  </g>
+</svg>
